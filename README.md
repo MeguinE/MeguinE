@@ -1,5 +1,9 @@
 ## Hi there! 👋 I'm Guillermo
 
+🛠️ Habilidades: Java, PHP, MySQL, Git, Docker  
+📚 Aprendiendo: Spring Boot, Flutter, Astro  
+🤝 Abierto a colaborar en proyectos de software y desarrollo móvil
+
 Welcome to my GitHub profile! I'm a developer in training with experience in Java and a strong interest in mobile and web development. I love learning, collaborating on new ideas, and sharing what I know. Here’s a bit more about me:
 
 ---
